@@ -2,7 +2,7 @@
 
 Overview:
 
-This project is an in-progress introductory portfolio website created as part of a structured Udemy course. The goal of the project is to practice foundational HTML concepts by building a simple, static website that presents basic personal information and navigation elements.
+This project is an in-progress introductory portfolio website created as part of a structured Udemy course completed as a guided code-along, with emphasis on understanding each concept, modifying examples, and reinforcing correct structure rather than producing original features. The goal of the project is to practice foundational HTML concepts by building a simple, static website that presents basic personal information and navigation elements.
 The site focuses on clean structure, semantic markup, and linking content using standard HTML elements.
 
 Technologies Used:
